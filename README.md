@@ -16,6 +16,7 @@
 </p>
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
@@ -30,10 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
-
-
-###
-
 ###
 
 <div align="center">
@@ -44,8 +41,9 @@
 ###
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssnaligia/ssnaligia/output/github-contribution-grid-snake-dark.svg">
+  <source srcset="https://raw.githubusercontent.com/ssnaligia/ssnaligia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssnaligia/ssnaligia/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssnaligia/ssnaligia/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
