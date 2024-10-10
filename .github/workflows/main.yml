@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *" # Executa a cada 12 horas
   push:
     branches:
-      - master 
+      - main  # ou master, dependendo da branch principal do seu repositório
   workflow_dispatch:
 
 jobs:
@@ -27,4 +27,4 @@ jobs:
           target_branch: output  # Certifique-se de que esta branch exista
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
